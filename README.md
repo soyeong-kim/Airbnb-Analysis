@@ -1,2 +1,2 @@
 # Airbnb-Analysis
-Text Analysis Using Airbnb Data in New York
+Text analytics using Airbnb data in New York City
